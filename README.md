@@ -4,6 +4,7 @@ My ST3 settings for python.
 ## Plugins
 * Package Control: <https://packagecontrol.io/> 
 * Anaconda: <http://damnwidget.github.io/anaconda/>
+* GitGutter: <https://github.com/jisaacks/GitGutter>
 * BracketHighlighter: <https://github.com/facelessuser/BracketHighlighter>
 * SideBarEnhancements: <https://github.com/SideBarEnhancements-org/SideBarEnhancements>
 * Python PEP8 Autoformat: <https://bitbucket.org/StephaneBunel/pythonpep8autoformat>
