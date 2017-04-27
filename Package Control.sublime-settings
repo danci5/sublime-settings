@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeLinter-pep8",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

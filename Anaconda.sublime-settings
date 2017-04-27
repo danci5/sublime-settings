@@ -1,0 +1,9 @@
+{
+    "python_interpreter": "$VIRTUAL_ENV/bin/python",
+    "auto_formatting": true,
+    "anaconda_linter_underlines": false,
+    "anaconda_linter_mark_style": "none",
+    "display_signatures": true,
+    "complete_parameters": true,
+    "complete_all_parameters": true,
+}
