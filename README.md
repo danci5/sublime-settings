@@ -1,7 +1,7 @@
 # Sublime-settings
 My ST3 settings for python.
 
-##Plugins
+## Plugins
 * Package Control: <https://packagecontrol.io/> 
 * Anaconda: <http://damnwidget.github.io/anaconda/>
 * BracketHighlighter: <https://github.com/facelessuser/BracketHighlighter>
@@ -16,5 +16,5 @@ My ST3 settings for python.
 Don't forget to set the python interpreter in Anaconda settings, so it can complete, lint and analyze your code.
 (it's based on your python interpreter)
 
-##Sample
+## Sample
 ![Screenshot](https://raw.githubusercontent.com/danci5/sublime-settings/master/sample_screen.png)
